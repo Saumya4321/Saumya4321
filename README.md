@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Saumya</h1>
+<h1 align="left">Hello! I'm Saumya 😄</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Languages, tools and frameworks</h2>
+<h1 align="left">Languages, tools and frameworks</h1>
 
 ###
 
@@ -45,6 +45,14 @@
 ###
 
 <h2 align="left"></h2>
+
+###
+
+<h1 align="left">My Stats! 👾</h1>
+
+###
+
+<p align="left">Being a stats & graphs nerd, I couldn't just leave these out 😁</p>
 
 ###
 
