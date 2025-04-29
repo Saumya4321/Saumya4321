@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">Being a stats & graphs nerd, I couldn't just leave these out 😁</p>
+<p align="left">Being a stats nerd, I couldn't just leave these out 😁</p>
 
 ###
 
