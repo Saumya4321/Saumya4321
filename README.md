@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Project Assistant @ IISc, where I'm working on developing software for embedded systems.  I’m also passionate about deep learning for medical imaging and love exploring AI, computer vision, and real-world problem-solving. On a lighter side, I also love making silly little apps for fun in my free-time.</p>
+<p align="left">I'm a Project Associate @ IISc, where I'm working on developing software for embedded systems.  I’m also passionate about deep learning for medical imaging and love exploring AI, computer vision, and real-world problem-solving. On a lighter side, I also love making silly little apps for fun in my free-time.</p>
 
 ###
 
