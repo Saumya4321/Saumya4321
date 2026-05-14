@@ -1,8 +1,8 @@
-<h1 align="left">Hello! I'm Saumya 😄</h1>
+<h1 align="left">Hello! I'm Saumya :)</h1>
 
 ###
 
-<p align="left">I'm a Project Associate @ IISc, where I'm working on developing software for embedded systems.  I’m also passionate about deep learning for medical imaging and love exploring AI, computer vision, and real-world problem-solving. On a lighter side, I also love making silly little apps for fun in my free-time.</p>
+<p align="left">I'm an incoming MSECE student @ Georgia Tech, Atlanta. I was also a Project Associate @ IISc, where I worked on developing software for embedded systems.  I’m also passionate about deep learning for medical imaging and love exploring AI, computer vision, and real-world problem-solving. On a lighter side, I also love making silly little apps for fun in my free-time.</p>
 
 ###
 
