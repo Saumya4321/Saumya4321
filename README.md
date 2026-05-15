@@ -31,13 +31,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
    <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
+  <!-- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
    <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
    <img width="12" />
   <img src="https://github.com/lfai/artwork/blob/main/projects/onnx/icon/color/onnx-icon-color.svg" height="40" alt="onnx logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/Ju1WrU1TAwAadT6f_q6VIzZ8B6ugP3IVfypRrDSFqKc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9weXBp/LWNhbW8uZnJlZXRs/cy5mYXN0bHkubmV0/L2VhYWY3MDAzNWNm/NzlhYTRkZDcxNDVj/NjA2YTQ5NWIxN2Q3/ZGFmYWIvNjg3NDc0/NzA3MzNhMmYyZjcy/NjE3NzJlNjc2OTc0/Njg3NTYyNzU3MzY1/NzI2MzZmNmU3NDY1/NmU3NDJlNjM2ZjZk/MmY1MDcyNmY2YTY1/NjM3NDJkNGQ0ZjRl/NDE0OTJmNGQ0ZjRl/NDE0OTJmNjQ2NTc2/MmY2NDZmNjM3MzJm/Njk2ZDYxNjc2NTcz/MmY0ZDRmNGU0MTQ5/MmQ2YzZmNjc2ZjJk/NjM2ZjZjNmY3MjJl/NzA2ZTY3" height="40" alt="monai logo"  />
+  <img src="https://imgs.search.brave.com/Ju1WrU1TAwAadT6f_q6VIzZ8B6ugP3IVfypRrDSFqKc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9weXBp/LWNhbW8uZnJlZXRs/cy5mYXN0bHkubmV0/L2VhYWY3MDAzNWNm/NzlhYTRkZDcxNDVj/NjA2YTQ5NWIxN2Q3/ZGFmYWIvNjg3NDc0/NzA3MzNhMmYyZjcy/NjE3NzJlNjc2OTc0/Njg3NTYyNzU3MzY1/NzI2MzZmNmU3NDY1/NmU3NDJlNjM2ZjZk/MmY1MDcyNmY2YTY1/NjM3NDJkNGQ0ZjRl/NDE0OTJmNGQ0ZjRl/NDE0OTJmNjQ2NTc2/MmY2NDZmNjM3MzJm/Njk2ZDYxNjc2NTcz/MmY0ZDRmNGU0MTQ5/MmQ2YzZmNjc2ZjJk/NjM2ZjZjNmY3MjJl/NzA2ZTY3" height="40" alt="monai logo"  /> -->
 </div>
 
 ###
