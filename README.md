@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an incoming MSECE student @ Georgia Tech, Atlanta. Before GT, I was a Project Associate @ IISc, where I worked on developing software for embedded systems.  I’m also passionate about deep learning for medical imaging and love exploring AI, computer vision, and real-world problem-solving. On a lighter side, I also love making silly little apps for fun in my free-time.</p>
+<p align="left">Project Associate @ IISc (EmSys Lab), building real-time data pipelines for intrusion detection (Windows ETW → PostgreSQL). Background in applied ML on medical imaging — segmentation, uncertainty estimation, and statistical validation (arXiv preprint) — plus a published paper on sensor-based Parkinson's gait detection (IEEE). Also make silly little apps for fun :).</p>
 
 ###
 
